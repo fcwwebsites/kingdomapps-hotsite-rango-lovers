@@ -15,20 +15,20 @@
     {
       id: 'v1',
       path: 'v1/',
-      title: 'Versão 1 — Dark elegant',
-      blurb: 'Carvão + mostarda, hero com foto do prato, review band e WhatsApp flutuante.'
+      title: 'Versão 1 — Editorial clássico',
+      blurb: "Claro e editorial: creme, serif Cormorant + caixa-alta espaçada, hero em foto cheia com título centralizado, fios finos e grade assimétrica de fotos. Refs: Fasano Bistrot Parigi, Terraço Itália, 1900."
     },
     {
       id: 'v2',
       path: 'v2/',
-      title: 'Versão 2 — Light warm',
-      blurb: 'Creme + tomate, cards de pratos, cardápio de marmitas e barra sticky de pedido.'
+      title: 'Versão 2 — Noite premium',
+      blurb: "Escuro e sofisticado: fundo profundo com acento da marca, hero dividido texto + foto emoldurada, botões com contorno, cards finos e grade 4-up. Refs: Ouê Sushi Bourbon, Ahy Prime Sushi."
     },
     {
       id: 'v3',
       path: 'v3/',
-      title: 'Versão 3 — Bold editorial',
-      blurb: 'Tipografia de manchete, faixa amarela de avaliação, seções numeradas e grade de fotos.'
+      title: 'Versão 3 — Trattoria calorosa',
+      blurb: "Quente e direto: blocos de cor da marca, títulos condensados em caixa-alta sobre foto, seções split imagem/texto e botões robustos. Refs: Famiglia Mancini, Cucina Pizza Trattoria, Quinoa Restobar."
     }
   ];
 
